@@ -37,5 +37,6 @@ npm install => Gerekli Bütün Modülleri Yükler.
 `-` Ardından button sistemimizin çalışmaşı için gerekli komutu giriyoruz.
 
 ![Adsız](https://media.discordapp.net/attachments/923986783543378011/934091571723378718/unknown.png)
+
 ```
 
