@@ -4,7 +4,7 @@
 Umarım işinize yarar. **[Herhangi Bir Sorunda Discord 'dan Ulaş schâwn wonéy#1247]**
 
 # 1. Button Sistemi
-**`-` Bu sistem sayesinde sunucuyu daha kolay patlabilir veya olumlu amaçlar yönünde kullanabilirsin.**
+**`-` Bu sistem sayesinde sunucuyu daha kolay patlatabilir veya olumlu amaçlar yönünde kullanabilirsin.**
 
 
 # 2. Kurulum
