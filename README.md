@@ -32,11 +32,10 @@ npm install => Gerekli Bütün Modülleri Yükler.
 # Çalıştırma:
 
 ```sh
-`-` node schawn.js => Terminal kısmına yazılacaktır.
+node schawn.js => Terminal kısmına yazılacaktır.
 
-`-` Ardından button sistemimizin çalışmaşı için gerekli komutu giriyoruz.
+Ardından button sistemimizin çalışmaşı için gerekli komutu giriyoruz.
 
 ![Adsız](https://media.discordapp.net/attachments/923986783543378011/934091571723378718/unknown.png)
 
-```
 
